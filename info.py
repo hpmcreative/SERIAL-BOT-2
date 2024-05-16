@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '13305226'))
 API_HASH = environ.get('API_HASH', '8cde2475d6b0cb1162b89ebbac71a95d')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6382508936:AAFLwqsWT4M2sfDIKSpG8HCDlRJyJthp_PI")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6382508936:AAEv_MQ93PsPj-IWt_OA68ugDXNuPzeIWxg")
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', ''))
