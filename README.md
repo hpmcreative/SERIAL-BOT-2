@@ -124,7 +124,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TeamHMT/Auto-search-tamil-bot&branch=main&name=Auto-search-tamil-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/hpmcreative/SERIAL-BOT-2)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -151,7 +151,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TeamHMT/Auto-search-tamil-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/hpmcreative/SERIAL-BOT-2/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -185,7 +185,8 @@ python3 bot.py
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Instagram&color=critical)](https://instagram.com/rc_memes_18?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Instagram&color=critical)](https://instagram.com/rc_memes_18?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
